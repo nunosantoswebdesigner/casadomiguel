@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170.98 170.98">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ea444e;
+      }
+
+      .cls-2 {
+        fill: #c1363f;
+      }
+
+      .cls-3 {
+        fill: #451613;
+      }
+
+      .cls-4 {
+        fill: #f9b59e;
+      }
+    </style>
+  </defs>
+  <g id="Group_7" data-name="Group 7" transform="translate(-606 -1392.911)">
+    <circle id="Ellipse_9" data-name="Ellipse 9" class="cls-1" cx="85.49" cy="85.49" r="85.49" transform="translate(606 1392.911)"/>
+    <path id="Path_153" data-name="Path 153" class="cls-2" d="M186.63,403.21c0,2.19-25.2,4-56.3,4s-56.3-1.78-56.3-4,25.21-4,56.3-4S186.63,401,186.63,403.21Z" transform="translate(558.66 1093.211)"/>
+    <path id="Path_158" data-name="Path 158" class="cls-3" d="M178.1,403.21H85.3A3.5,3.5,0,0,1,83.09,397l49.52-40.49V346.34c0-3.4-1-5.41-3-6a7,7,0,0,0-7,2.67,3.514,3.514,0,0,1-6-3.66,14,14,0,0,1,14.9-5.75c2.44.69,8.11,3.32,8.11,12.72v10.37l40.95,40.51a3.5,3.5,0,0,1-2.46,6Zm-83-7h74.47l-33.69-33.33Z" transform="translate(558.66 1093.211)"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-4" width="51.98" height="44.22" rx="3.15" transform="translate(665.71 1482.871)"/>
+  </g>
+</svg>

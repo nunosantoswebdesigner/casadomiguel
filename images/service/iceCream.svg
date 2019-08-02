@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 184.388 184.388">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #49a0ae;
+      }
+
+      .cls-2 {
+        fill: #eaebec;
+      }
+
+      .cls-3 {
+        fill: #451613;
+      }
+
+      .cls-4 {
+        fill: #c0c2c5;
+      }
+
+      .cls-5 {
+        fill: #9cbcab;
+      }
+    </style>
+  </defs>
+  <g id="Group_4" data-name="Group 4" transform="translate(-584.603 -891)">
+    <circle id="Ellipse_41" data-name="Ellipse 41" class="cls-1" cx="92.194" cy="92.194" r="92.194" transform="translate(584.603 891)"/>
+    <path id="Path_177" data-name="Path 177" class="cls-2" d="M253.91,575.52h-4V549.16c0-4.2-1.28-7.07-3.72-8.3a6.74,6.74,0,0,0-6.77.64,3.29,3.29,0,0,0-1.54,3.08l-3.94.66a7.08,7.08,0,0,1,3.12-7,10.72,10.72,0,0,1,10.94-1c2.21,1.12,5.91,4.14,5.91,11.87Z" transform="translate(468.66 406.211)"/>
+    <path id="Path_178" data-name="Path 178" class="cls-3" d="M201.65,578.24h-43.1V600.4a22.18,22.18,0,0,0,22.17,22.17h55.41a22.17,22.17,0,0,0,22.16-22.17V578.24Z" transform="translate(468.66 406.211)"/>
+    <path id="Path_179" data-name="Path 179" class="cls-4" d="M266.09,575.52a2.67,2.67,0,0,1-2.67,2.67h-110a2.68,2.68,0,0,1-2.67-2.67h0a2.68,2.68,0,0,1,2.67-2.67h110A2.67,2.67,0,0,1,266.09,575.52Z" transform="translate(468.66 406.211)"/>
+    <path id="Path_180" data-name="Path 180" class="cls-3" d="M242.08,549.39a7.25,7.25,0,0,0-14.49.25,1.54,1.54,0,0,0,1.54,1.54h11.43a1.54,1.54,0,0,0,1.54-1.54A2,2,0,0,0,242.08,549.39Z" transform="translate(468.66 406.211)"/>
+    <path id="Path_181" data-name="Path 181" class="cls-5" d="M232.32,557.54a2.11,2.11,0,0,1-4.21,0c0-1.17,1.71-4.35,2.11-4.35S232.32,556.37,232.32,557.54Z" transform="translate(468.66 406.211)"/>
+    <path id="Path_182" data-name="Path 182" class="cls-5" d="M240.51,562.85a2.11,2.11,0,0,1-4.21,0c0-1.16,1.71-4.35,2.1-4.35S240.51,561.69,240.51,562.85Z" transform="translate(468.66 406.211)"/>
+    <path id="Path_183" data-name="Path 183" class="cls-5" d="M233.26,568.72a2.11,2.11,0,1,1-4.21,0c0-1.16,1.71-4.34,2.1-4.34S233.26,567.56,233.26,568.72Z" transform="translate(468.66 406.211)"/>
+  </g>
+</svg>
